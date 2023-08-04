@@ -64,9 +64,9 @@ For finding the best regularisation penalty in ridge regression, I have used k-f
 
 ### How to run this project 
 
-**<u>Step 1</u>** : Open terminal and clone the repository : git clone https://github.com/jainraunak/Hospital_Cost_Prediction.git <br>
+**<u>Step 1</u>** : Open terminal and clone the repository : git clone https://github.com/devika-be/Data-Science-Projects/tree/main/Hospital%20Cost%20Prediction.git <br>
 **<u>Step 2</u>** : In the terminal, go to the location where the repo is saved. <br>
-**<u>Step 3</u>** : Run **<i>python3 run.py</i>** from the terminal. 
+**<u>Step 3</u>** : Run **<i>python run.py</i>** from the terminal. 
 
 
 
