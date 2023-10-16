@@ -8,3 +8,5 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
    - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
    - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
    - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
+
+2. [E-Commerce Product Delivery Prediction]
