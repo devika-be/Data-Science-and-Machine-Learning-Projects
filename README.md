@@ -9,4 +9,4 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
    - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
    - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
 
-2. [E-Commerce Product Delivery Prediction]
+2. [E-Commerce Product Delivery Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/E-Commerce%20Product%20Delivery%20Prediction)
