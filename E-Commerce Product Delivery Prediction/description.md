@@ -21,7 +21,7 @@ The dataset used for model building contains 10,999 observations of 12 variables
 | Weight_in_gms        | Weight of the product in grams                         |
 | Reached.on.Time_Y.N  | Target variable (1 - Product did not reach on time, 0 - Product reached on time) |
 
-## Conclusion:
+# Conclusion:
 The project aimed to predict product delivery timeliness while examining factors affecting delivery and customer behavior. Exploratory data analysis revealed that product weight and cost significantly impact delivery. Products weighing between 2500 - 3500 grams and costing less than $250 had a higher likelihood of timely delivery. Most products were shipped from Warehouse F via ship, suggesting its proximity to a seaport.
 
 Customer behavior also plays a crucial role in predicting timely delivery. Higher customer call volumes correlated with delayed delivery. Interestingly, customers with more prior purchases had a higher rate of on-time deliveries, indicating their loyalty to the company. Products with a discount of 0-10% were more likely to be delivered late, whereas those with discounts exceeding 10% had a higher on-time delivery rate.
