@@ -10,3 +10,10 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
    - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
 
 2. [E-Commerce Product Delivery Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/E-Commerce%20Product%20Delivery%20Prediction)
+
+
+   - **Description:** The aim of this project is to predict whether products from an international e-commerce company will reach customers on time or not. Additionally, the project analyzes various factors 
+      influencing product delivery and studies customer behavior. The company primarily sells electronic products.
+   - **Technologies Used:** The notebooks uses Exploratory Data Analysis, Decision tree classifier, K Nearest Neighbors and Logistic Regression.
+   - **Results:** The decision tree classifier as the highest accuracy among the other models, with accuracy of 69%. The random forest classifier and logistic regression had accuracy of 68% and 67% respectively. 
+      The K Nearest Neighbors had the lowest accuracy of 65%.
