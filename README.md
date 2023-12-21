@@ -11,9 +11,17 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
 
 2. [E-Commerce Product Delivery Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/E-Commerce%20Product%20Delivery%20Prediction)
 
-
    - **Description:** The aim of this project is to predict whether products from an international e-commerce company will reach customers on time or not. Additionally, the project analyzes various factors 
       influencing product delivery and studies customer behavior. The company primarily sells electronic products.
    - **Technologies Used:** The notebooks uses Exploratory Data Analysis, Decision tree classifier, K Nearest Neighbors and Logistic Regression.
    - **Results:** The decision tree classifier as the highest accuracy among the other models, with accuracy of 69%. The random forest classifier and logistic regression had accuracy of 68% and 67% respectively. 
       The K Nearest Neighbors had the lowest accuracy of 65%.
+
+3. [Diamond Price Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/Diamand%20Price%20Prediction)
+
+   - **Description:** The aim of this analysis is to predict the price of diamonds based on their characteristics. The dataset used for this analysis is the Diamonds dataset from Kaggle. The dataset contains 
+       53940 observations and 10 variables. 
+   - **Technologies Used:** The notebooks uses Exploratory Data Analysis, Decision Tree Regressor and Random Forest Regressor.
+   - **Results:** Both the models have almost same accuracy. However, the Random Forest Regressor model is slightly better than the Decision Tree Regressor model.
+     There is something interesting about the data. The price of the diamonds with J color and I1 clarity is higher than the price of the diamonds with D color and IF clarity which couldn't be explained by the
+     models. This could be because of the other factors that affect the price of the diamond.
