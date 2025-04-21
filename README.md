@@ -35,4 +35,18 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
    - **Results:** The model accuracies of Logistic Regression, SVM and KNN are quite similar i.e. 93.8 %. The accuracy of Decision Tree Classifier is 91.8 %. So, we can use any of these models to predict the 
      heart stroke.
 
+5. [Breast Cancer Prediction]
+ 
+   - **Description:** This project aims to predict whether a breast mass is malignant or benign using classification algorithms. The dataset consists of features derived from digitized images of fine needle 
+     aspirate (FNA) of breast masses. These features capture various characteristics of the cell nuclei in the images, such as radius, texture, smoothness, and symmetry, which are critical indicators in breast 
+     cancer diagnosis.
+
+  - **Technologies Used:** The notebook utilizes Exploratory Data Analysis (EDA), Logistic Regression, Support Vector Machine (SVM), Decision Tree Classifier, and K-Nearest Neighbors (KNN) for model training and 
+    evaluation.
+
+Results:
+The machine learning models showed promising results. SVM and Logistic Regression achieved the highest accuracy of 96.5%, followed closely by KNN at 95.6% and Decision Tree at 93.4%. Based on the performance, SVM or Logistic Regression can be preferred for reliable breast cancer prediction.
+
+
+
 
