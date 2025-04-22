@@ -40,12 +40,20 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
    - **Description:** This project aims to predict whether a breast mass is malignant or benign using classification algorithms. The dataset consists of features derived from digitized images of fine needle 
      aspirate (FNA) of breast masses. These features capture various characteristics of the cell nuclei in the images, such as radius, texture, smoothness, and symmetry, which are critical indicators in breast 
      cancer diagnosis.
-
    - **Technologies Used:** The notebook utilizes Exploratory Data Analysis (EDA), Logistic Regression, Support Vector Machine (SVM), Decision Tree Classifier, and K-Nearest Neighbors (KNN) for model training and 
      evaluation.
-
    - **Results:** The machine learning models showed promising results. SVM and Logistic Regression achieved the highest accuracy of 96.5%, followed closely by KNN at 95.6% and Decision Tree at 93.4%. Based on 
      the performance, SVM or Logistic Regression, can be preferred for reliable breast cancer prediction.
+
+6. [Hospital Cost Prediction]
+Description:
+This project aims to predict the total hospital costs for a patient based on various factors such as type of disease, hospital type, and patient demographics. It addresses real-world healthcare challenges like identifying overcharging hospitals, estimating patient expenses, and aiding in hospital selection.
+
+Technologies Used:
+The project uses Exploratory Data Analysis, Linear Regression, Ridge Regression, and Lasso Regression. Linear and Ridge Regression are implemented from scratch using the Moore-Penrose pseudoinverse method. The workflow also includes feature engineering, random search, and k-fold cross-validation for optimal performance tuning.
+
+Results:
+The initial model using Ridge Regression without feature engineering achieved a 10-fold R² score of 0.56. After applying feature engineering techniques, the R² score improved significantly to 0.778, indicating a 38.75% improvement in model performance. Lasso Regression was used to analyze feature importance post-enhancement.
 
 
 
