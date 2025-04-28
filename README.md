@@ -52,8 +52,8 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
    - **Technologies Used:** The project uses Exploratory Data Analysis, Linear Regression, Ridge Regression, and Lasso Regression. Linear and Ridge Regression are implemented from scratch using the Moore-Penrose 
      pseudoinverse method. The workflow also includes feature engineering, random search, and k-fold cross-validation for optimal performance tuning.
 
-Results:
-The initial model using Ridge Regression without feature engineering achieved a 10-fold R² score of 0.56. After applying feature engineering techniques, the R² score improved significantly to 0.778, indicating a 38.75% improvement in model performance. Lasso Regression was used to analyze feature importance post-enhancement.
+   - **Results:** The initial model using Ridge Regression without feature engineering achieved a 10-fold R² score of 0.56. After applying feature engineering techniques, the R² score improved significantly to 
+     0.778, indicating a 38.75% improvement in model performance. Lasso Regression was used to analyze feature importance post-enhancement.
 
 
 
