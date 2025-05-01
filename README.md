@@ -45,7 +45,7 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
    - **Results:** The machine learning models showed promising results. SVM and Logistic Regression achieved the highest accuracy of 96.5%, followed closely by KNN at 95.6% and Decision Tree at 93.4%. Based on 
      the performance, SVM or Logistic Regression, can be preferred for reliable breast cancer prediction.
 
-6. [Hospital Cost Prediction]
+6. [Hospital Cost Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/Hospital%20Cost%20Prediction)
    - **Description:** This project aims to predict the total hospital costs for a patient based on various factors such as type of disease, hospital type, and patient demographics. It addresses real-world 
      healthcare challenges like identifying overcharging hospitals, estimating patient expenses, and aiding in hospital selection.
 
