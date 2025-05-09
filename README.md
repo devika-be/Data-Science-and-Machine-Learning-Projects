@@ -32,7 +32,7 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
    - **Description:** The aims to predict the likelihood of a patient experiencing a stroke based on various input parameters such as gender, age, presence of diseases, and smoking status. The dataset provides 
      relevant information about each patient, enabling the development of a predictive model. 
    - **Technologies Used:** The notebooks uses Exploratory Data Analysis, Logistic Regression, Logistic Regression, Support Vector Machine (SVM), Decision Tree Classifier, K-Nearest Neighbors (KNN).
-   - **Results:** The model accuracies of Logistic Regression, SVM and KNN are quite similar i.e. 93.8 %. The accuracy of Decision Tree Classifier is 91.8 %. So, we can use any of these models to predict the 
+   - **Results:** The model accuracies of Logistic Regression, SVM and KNN are quite similar i.e., 93.8 %. The accuracy of the Decision Tree Classifier is 91.8 %. So, we can use any of these models to predict the 
      heart stroke.
 
 5. [Breast Cancer Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/Breast%20Cancer%20Prediction)
@@ -43,7 +43,7 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
    - **Technologies Used:** The notebook utilizes Exploratory Data Analysis (EDA), Logistic Regression, Support Vector Machine (SVM), Decision Tree Classifier, and K-Nearest Neighbors (KNN) for model training and 
      evaluation.
    - **Results:** The machine learning models showed promising results. SVM and Logistic Regression achieved the highest accuracy of 96.5%, followed closely by KNN at 95.6% and Decision Tree at 93.4%. Based on 
-     the performance, SVM or Logistic Regression, can be preferred for reliable breast cancer prediction.
+     the performance, SVM or Logistic Regression can be preferred for reliable breast cancer prediction.
 
 6. [Hospital Cost Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/Hospital%20Cost%20Prediction)
    - **Description:** This project aims to predict the total hospital costs for a patient based on various factors such as type of disease, hospital type, and patient demographics. It addresses real-world 
@@ -53,7 +53,7 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
      pseudoinverse method. The workflow also includes feature engineering, random search, and k-fold cross-validation for optimal performance tuning.
 
    - **Results:** The initial model using Ridge Regression without feature engineering achieved a 10-fold R² score of 0.56. After applying feature engineering techniques, the R² score improved significantly to 
-     0.778, indicating a 38.75% improvement in model performance. Lasso Regression was used to analyze feature importance post-enhancement.
+     0.778, indicating a 38.75% improvement in model performance. Lasso Regression was used to analyze the importance of features post-enhancement.
 
 
 
