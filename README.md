@@ -38,7 +38,7 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
 5. [Breast Cancer Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/Breast%20Cancer%20Prediction)
  
    - **Description:** This project aims to predict whether a breast mass is malignant or benign using classification algorithms. The dataset consists of features derived from digitized images of fine needle 
-     aspirate (FNA) of breast masses. These features capture various characteristics of the cell nuclei in the images, such as radius, texture, smoothness, and symmetry, which are critical indicators in breast 
+     aspirates (FNA) of breast masses. These features capture various characteristics of the cell nuclei in the images, such as radius, texture, smoothness, and symmetry, which are critical indicators in breast 
      cancer diagnosis.
    - **Technologies Used:** The notebook utilizes Exploratory Data Analysis (EDA), Logistic Regression, Support Vector Machine (SVM), Decision Tree Classifier, and K-Nearest Neighbors (KNN) for model training and 
      evaluation.
