@@ -13,26 +13,26 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
 
    - **Description:** The aim of this project is to predict whether products from an international e-commerce company will reach customers on time or not. Additionally, the project analyzes various factors 
       influencing product delivery and studies customer behavior. The company primarily sells electronic products.
-   - **Technologies Used:** The notebooks uses Exploratory Data Analysis, Decision tree classifier, K Nearest Neighbors and Logistic Regression.
-   - **Results:** The decision tree classifier as the highest accuracy among the other models, with accuracy of 69%. The random forest classifier and logistic regression had accuracy of 68% and 67% respectively. 
+   - **Technologies Used:** The notebooks use Exploratory Data Analysis, Decision Tree Classifier, K Nearest Neighbors, and Logistic Regression.
+   - **Results:** The decision tree classifier as the highest accuracy among the other models, with an accuracy of 69%. The random forest classifier and logistic regression had accuracy of 68% and 67% respectively. 
       The K Nearest Neighbors had the lowest accuracy of 65%.
 
 3. [Diamond Price Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/Diamand%20Price%20Prediction)
 
    - **Description:** The aim of this analysis is to predict the price of diamonds based on their characteristics. The dataset used for this analysis is the Diamonds dataset from Kaggle. The dataset contains 
        53940 observations and 10 variables. 
-   - **Technologies Used:** The notebooks uses Exploratory Data Analysis, Decision Tree Regressor and Random Forest Regressor.
-   - **Results:** Both the models have almost same accuracy. However, the Random Forest Regressor model is slightly better than the Decision Tree Regressor model.
-     There is something interesting about the data. The price of the diamonds with J color and I1 clarity is higher than the price of the diamonds with D color and IF clarity which couldn't be explained by the
+   - **Technologies Used:** The notebooks use Exploratory Data Analysis, Decision Tree Regressor, and Random Forest Regressor.
+   - **Results:** Both models have almost the same accuracy. However, the Random Forest Regressor model is slightly better than the Decision Tree Regressor model.
+     There is something interesting about the data. The price of the diamonds with J color and I1 clarity is higher than the price of the diamonds with D color and IF clarity, which couldn't be explained by the
      models. This could be because of the other factors that affect the price of the diamond.
      
    
 4. [Heart Stroke Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/Heart%20Stroke%20Prediction)
 
-   - **Description:** The aims to predict the likelihood of a patient experiencing a stroke based on various input parameters such as gender, age, presence of diseases, and smoking status. The dataset provides 
+   - **Description:** The aim is to predict the likelihood of a patient experiencing a stroke based on various input parameters such as gender, age, presence of diseases, and smoking status. The dataset provides 
      relevant information about each patient, enabling the development of a predictive model. 
    - **Technologies Used:** The notebooks uses Exploratory Data Analysis, Logistic Regression, Logistic Regression, Support Vector Machine (SVM), Decision Tree Classifier, K-Nearest Neighbors (KNN).
-   - **Results:** The model accuracies of Logistic Regression, SVM and KNN are quite similar i.e., 93.8 %. The accuracy of the Decision Tree Classifier is 91.8 %. So, we can use any of these models to predict the 
+   - **Results:** The model accuracies of Logistic Regression, SVM, and KNN are quite similar, i.e., 93.8 %. The accuracy of the Decision Tree Classifier is 91.8 %. So, we can use any of these models to predict the 
      heart stroke.
 
 5. [Breast Cancer Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/Breast%20Cancer%20Prediction)
@@ -54,7 +54,3 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
 
    - **Results:** The initial model using Ridge Regression without feature engineering achieved a 10-fold R² score of 0.56. After applying feature engineering techniques, the R² score improved significantly to 
      0.778, indicating a 38.75% improvement in model performance. Lasso Regression was used to analyze the importance of features post-enhancement.
-
-
-
-
