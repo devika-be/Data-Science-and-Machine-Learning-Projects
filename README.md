@@ -14,7 +14,7 @@ Welcome to my Data Science and Machine Learning Projects Repository! This reposi
    - **Description:** The aim of this project is to predict whether products from an international e-commerce company will reach customers on time or not. Additionally, the project analyzes various factors 
       influencing product delivery and studies customer behavior. The company primarily sells electronic products.
    - **Technologies Used:** The notebooks use Exploratory Data Analysis, Decision Tree Classifier, K Nearest Neighbors, and Logistic Regression.
-   - **Results:** The decision tree classifier as the highest accuracy among the other models, with an accuracy of 69%. The random forest classifier and logistic regression had accuracy of 68% and 67% respectively. 
+   - **Results:** The decision tree classifier as the highest accuracy among the other models, with an accuracy of 69%. The random forest classifier and logistic regression had an accuracy of 68% and 67%, respectively. 
       The K Nearest Neighbors had the lowest accuracy of 65%.
 
 3. [Diamond Price Prediction](https://github.com/devika-be/Data-Science-and-Machine-Learning-Projects/tree/main/Diamand%20Price%20Prediction)
